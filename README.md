@@ -1,6 +1,6 @@
 # Distributed algorithms
 
-The goal of this project was to implement a **QR decomposition algorithm** for tall-and-skinny matrices that leverages Dask’s parallel computing capabilities on a cluster of machines (CloudVeneto). Following [this article](https://arxiv.org/abs/1301.1071), we implemented three versions of the QR decomposition algorithm:
+The goal of this project was to implement a **QR decomposition algorithm** for tall-and-skinny matrices that leverages Dask’s parallel computing capabilities on a cluster of machines (CloudVeneto). Following [this article](https://arxiv.org/abs/1301.1071), me and my colleagues implemented three versions of the QR decomposition algorithm:
 1) QR decomposition via Cholesky decomposition
 2) QR indirect method
 3) QR direct method
